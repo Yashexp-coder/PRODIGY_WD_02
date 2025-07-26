@@ -32,7 +32,7 @@ A simple, interactive stopwatch web application built using **HTML**, **CSS**, a
 
 ## 🌐 GitHub Pages
 
-Live Demo: [Click here to view](https://Yashexp-coder.github.io/PRODIGY_WD-02/)
+Live Demo: [Click here to view](https://yashexp-coder.github.io/PRODIGY_WD_02/)
 
 ---
 
