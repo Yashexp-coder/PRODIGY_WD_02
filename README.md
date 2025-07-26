@@ -15,7 +15,7 @@ A simple, interactive stopwatch web application built using **HTML**, **CSS**, a
 
 ## 🚀 How to Use
 
-1. Clone the repository or [download ZIP](https://github.com/yourusername/stopwatch-app/archive/refs/heads/main.zip)
+1. Clone the repository
 2. Open `index.html` in your browser
 3. Click Start to begin the stopwatch
 4. Use Lap to record intervals
@@ -32,13 +32,13 @@ A simple, interactive stopwatch web application built using **HTML**, **CSS**, a
 
 ## 🌐 GitHub Pages
 
-Live Demo: [Click here to view](https://yourusername.github.io/stopwatch-app/)
+Live Demo: [Click here to view](https://Yashexp-coder.github.io/PRODIGY_WD-02/)
 
 ---
 
 ## 🙌 Author
 
-Created by [Yash Gupta](https://github.com/yourusername) for the Prodigy Infotech Internship (Task-02)
+Created by [Yash Gupta](https://github.com/Yashexp-coder) for the Prodigy Infotech Internship (Task-02)
 
 ---
 
